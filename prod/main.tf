@@ -12,8 +12,8 @@ provider "aws" {
     
     default_tags {
         tags = {
-            Owner   = "Paulo Henrue P Silva"
-            Env     = "Prod"
+            Owner   = "Paulo H P Silva"
+            Env     = "Producao"
             Class   = "CLC10"
         }
     }
